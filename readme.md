@@ -11,4 +11,4 @@ Install dependencies
 
 ## `yarn start`
 
-Run in development mode on `http://localhost:4000/`
+Run in development mode on [`http://localhost:4000`](http://localhost:4000)
